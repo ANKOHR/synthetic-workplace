@@ -1,0 +1,4 @@
+pytest test count: 18
+local commit hash: 5417dfaec4a5603c4008d4b94608df4eceabb559
+
+SyntheticWorkplace now provides a CPU-only, seeded generator for fictional company, employee, email, CRM, invoice, CSV line-item, ticket, and internal document data with cross-entity references and an inspectable reference graph. It includes a consistency validator with exact planted-fault fixtures, ranked cross-type search, volume and date statistics, demo and scale profiles, a Python CLI, and documentation that states the synthetic-data boundary. The full pytest suite passed with 18 tests.
