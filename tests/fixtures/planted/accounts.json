@@ -1,0 +1,57 @@
+[
+  {
+    "account_owner_id": "employee_0003",
+    "created_date": "2021-06-16",
+    "id": "account_0001",
+    "industry": "workshop equipment",
+    "is_synthetic": true,
+    "name": "Quartz Beacon account marker cooperative",
+    "notes": "Fictional customer for knowledge base review planning.",
+    "region": "North",
+    "status": "prospect"
+  },
+  {
+    "account_owner_id": "employee_0006",
+    "created_date": "2023-06-21",
+    "id": "account_0002",
+    "industry": "learning materials",
+    "is_synthetic": true,
+    "name": "Nimble Union Partners",
+    "notes": "Fictional customer for greenhouse setup planning.",
+    "region": "East",
+    "status": "active"
+  },
+  {
+    "account_owner_id": "employee_0002",
+    "created_date": "2022-04-20",
+    "id": "account_0003",
+    "industry": "design services",
+    "is_synthetic": true,
+    "name": "Ivory Northstar Trading",
+    "notes": "Fictional customer for greenhouse setup planning.",
+    "region": "Central",
+    "status": "prospect"
+  },
+  {
+    "account_owner_id": "employee_0004",
+    "created_date": "2021-09-16",
+    "id": "account_0004",
+    "industry": "office supplies",
+    "is_synthetic": true,
+    "name": "Thistle Ridgeline Trading",
+    "notes": "Fictional customer for juniper renewal planning.",
+    "region": "East",
+    "status": "active"
+  },
+  {
+    "account_owner_id": "employee_0004",
+    "created_date": "2023-09-09",
+    "id": "account_0005",
+    "industry": "design services",
+    "is_synthetic": true,
+    "name": "Juniper Pioneer Studio",
+    "notes": "Fictional customer for equipment survey planning.",
+    "region": "North",
+    "status": "active"
+  }
+]

@@ -1,0 +1,5 @@
+spreadsheet_id,title,invoice_id,account_id,account_name,line_id,description,quantity,unit_price_cents,amount_cents
+spreadsheet_0006,SW-2024-00006 line items,invoice_0006,account_0001,Yonder Cairn Studio,line_001,safety vest,7,6005,42035
+spreadsheet_0006,SW-2024-00006 line items,invoice_0006,account_0001,Yonder Cairn Studio,line_002,sample binder,7,1894,13258
+spreadsheet_0006,SW-2024-00006 line items,invoice_0006,account_0001,Yonder Cairn Studio,line_003,cable set,5,8898,44490
+spreadsheet_0006,SW-2024-00006 line items,invoice_0006,account_0001,Yonder Cairn Studio,line_004,assembly kit,1,6818,6818

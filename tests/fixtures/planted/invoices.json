@@ -1,0 +1,252 @@
+[
+  {
+    "account_id": "account_0005",
+    "contact_id": "contact_0010",
+    "currency": "USD",
+    "description": "Quartz Beacon invoice marker: fictional line charges.",
+    "due_date": "2025-03-23",
+    "id": "invoice_0001",
+    "is_synthetic": true,
+    "issued_date": "2025-02-21",
+    "line_items": [
+      {
+        "amount_cents": 139488,
+        "description": "Quartz Beacon workbook marker",
+        "line_id": "line_001",
+        "quantity": 6,
+        "unit_price_cents": 23248
+      },
+      {
+        "amount_cents": 39318,
+        "description": "work mat",
+        "line_id": "line_002",
+        "quantity": 6,
+        "unit_price_cents": 6553
+      },
+      {
+        "amount_cents": 6300,
+        "description": "measuring tool",
+        "line_id": "line_003",
+        "quantity": 5,
+        "unit_price_cents": 1260
+      },
+      {
+        "amount_cents": 34089,
+        "description": "safety vest",
+        "line_id": "line_004",
+        "quantity": 3,
+        "unit_price_cents": 11363
+      }
+    ],
+    "number": "SW-2024-00001",
+    "spreadsheet_id": "spreadsheet_0001",
+    "status": "open",
+    "total_cents": 219202
+  },
+  {
+    "account_id": "account_0003",
+    "contact_id": "contact_0003",
+    "currency": "USD",
+    "description": "Field guide update service and supply charges.",
+    "due_date": "2025-05-30",
+    "id": "invoice_0002",
+    "is_synthetic": true,
+    "issued_date": "2025-04-30",
+    "line_items": [
+      {
+        "amount_cents": 46539,
+        "description": "storage tray",
+        "line_id": "line_001",
+        "quantity": 3,
+        "unit_price_cents": 15513
+      },
+      {
+        "amount_cents": 13263,
+        "description": "packing sleeve",
+        "line_id": "line_002",
+        "quantity": 1,
+        "unit_price_cents": 13263
+      }
+    ],
+    "number": "SW-2024-00002",
+    "spreadsheet_id": "spreadsheet_0002",
+    "status": "open",
+    "total_cents": 59802
+  },
+  {
+    "account_id": "account_0001",
+    "contact_id": "contact_0009",
+    "currency": "USD",
+    "description": "Greenhouse setup service and supply charges.",
+    "due_date": "2025-01-22",
+    "id": "invoice_0003",
+    "is_synthetic": true,
+    "issued_date": "2024-12-23",
+    "line_items": [
+      {
+        "amount_cents": 107616,
+        "description": "label roll",
+        "line_id": "line_001",
+        "quantity": 6,
+        "unit_price_cents": 17936
+      },
+      {
+        "amount_cents": 35520,
+        "description": "sample binder",
+        "line_id": "line_002",
+        "quantity": 5,
+        "unit_price_cents": 7104
+      },
+      {
+        "amount_cents": 63828,
+        "description": "packing sleeve",
+        "line_id": "line_003",
+        "quantity": 3,
+        "unit_price_cents": 21276
+      },
+      {
+        "amount_cents": 6121,
+        "description": "safety vest",
+        "line_id": "line_004",
+        "quantity": 1,
+        "unit_price_cents": 6121
+      },
+      {
+        "amount_cents": 164352,
+        "description": "sample binder",
+        "line_id": "line_005",
+        "quantity": 8,
+        "unit_price_cents": 20544
+      }
+    ],
+    "number": "SW-2024-00003",
+    "spreadsheet_id": "spreadsheet_0003",
+    "status": "open",
+    "total_cents": 377437
+  },
+  {
+    "account_id": "account_0003",
+    "contact_id": "contact_0003",
+    "currency": "USD",
+    "description": "Inventory reset service and supply charges.",
+    "due_date": "2025-05-23",
+    "id": "invoice_0004",
+    "is_synthetic": true,
+    "issued_date": "2025-04-23",
+    "line_items": [
+      {
+        "amount_cents": 13064,
+        "description": "storage tray",
+        "line_id": "line_001",
+        "quantity": 1,
+        "unit_price_cents": 13064
+      },
+      {
+        "amount_cents": 76755,
+        "description": "desk lamp",
+        "line_id": "line_002",
+        "quantity": 7,
+        "unit_price_cents": 10965
+      },
+      {
+        "amount_cents": 27924,
+        "description": "safety vest",
+        "line_id": "line_003",
+        "quantity": 6,
+        "unit_price_cents": 4654
+      }
+    ],
+    "number": "SW-2024-00004",
+    "spreadsheet_id": "spreadsheet_0004",
+    "status": "paid",
+    "total_cents": 117743
+  },
+  {
+    "account_id": "account_0005",
+    "contact_id": "contact_0005",
+    "currency": "USD",
+    "description": "Greenhouse setup service and supply charges.",
+    "due_date": "2024-08-01",
+    "id": "invoice_0005",
+    "is_synthetic": true,
+    "issued_date": "2024-07-02",
+    "line_items": [
+      {
+        "amount_cents": 5038,
+        "description": "measuring tool",
+        "line_id": "line_001",
+        "quantity": 1,
+        "unit_price_cents": 5038
+      },
+      {
+        "amount_cents": 12068,
+        "description": "desk lamp",
+        "line_id": "line_002",
+        "quantity": 1,
+        "unit_price_cents": 12068
+      },
+      {
+        "amount_cents": 1804,
+        "description": "packing sleeve",
+        "line_id": "line_003",
+        "quantity": 2,
+        "unit_price_cents": 902
+      },
+      {
+        "amount_cents": 93856,
+        "description": "desk lamp",
+        "line_id": "line_004",
+        "quantity": 7,
+        "unit_price_cents": 13408
+      }
+    ],
+    "number": "SW-2024-00005",
+    "spreadsheet_id": "spreadsheet_0005",
+    "status": "open",
+    "total_cents": 112766
+  },
+  {
+    "account_id": "account_0001",
+    "contact_id": "contact_0009",
+    "currency": "USD",
+    "description": "Field guide update service and supply charges.",
+    "due_date": "2024-04-20",
+    "id": "invoice_0006",
+    "is_synthetic": true,
+    "issued_date": "2024-03-21",
+    "line_items": [
+      {
+        "amount_cents": 42035,
+        "description": "safety vest",
+        "line_id": "line_001",
+        "quantity": 7,
+        "unit_price_cents": 6005
+      },
+      {
+        "amount_cents": 13258,
+        "description": "sample binder",
+        "line_id": "line_002",
+        "quantity": 7,
+        "unit_price_cents": 1894
+      },
+      {
+        "amount_cents": 44490,
+        "description": "cable set",
+        "line_id": "line_003",
+        "quantity": 5,
+        "unit_price_cents": 8898
+      },
+      {
+        "amount_cents": 6818,
+        "description": "assembly kit",
+        "line_id": "line_004",
+        "quantity": 1,
+        "unit_price_cents": 6818
+      }
+    ],
+    "number": "SW-2024-00006",
+    "spreadsheet_id": "spreadsheet_0006",
+    "status": "paid",
+    "total_cents": 106601
+  }
+]

@@ -1,0 +1,6 @@
+spreadsheet_id,title,invoice_id,account_id,account_name,line_id,description,quantity,unit_price_cents,amount_cents
+spreadsheet_0003,SW-2024-00003 line items,invoice_0003,account_0001,Yonder Cairn Studio,line_001,label roll,6,17936,107616
+spreadsheet_0003,SW-2024-00003 line items,invoice_0003,account_0001,Yonder Cairn Studio,line_002,sample binder,5,7104,35520
+spreadsheet_0003,SW-2024-00003 line items,invoice_0003,account_0001,Yonder Cairn Studio,line_003,packing sleeve,3,21276,63828
+spreadsheet_0003,SW-2024-00003 line items,invoice_0003,account_0001,Yonder Cairn Studio,line_004,safety vest,1,6121,6121
+spreadsheet_0003,SW-2024-00003 line items,invoice_0003,account_0001,Yonder Cairn Studio,line_005,sample binder,8,20544,164352

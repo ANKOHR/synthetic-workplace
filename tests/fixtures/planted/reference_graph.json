@@ -1,0 +1,2004 @@
+[
+  {
+    "field": "account_id",
+    "source_id": "contact_0001",
+    "source_type": "contacts",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0002",
+    "source_type": "contacts",
+    "target_id": "account_0002",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0003",
+    "source_type": "contacts",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0004",
+    "source_type": "contacts",
+    "target_id": "account_0004",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0005",
+    "source_type": "contacts",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0006",
+    "source_type": "contacts",
+    "target_id": "account_0004",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0007",
+    "source_type": "contacts",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0008",
+    "source_type": "contacts",
+    "target_id": "account_0002",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0009",
+    "source_type": "contacts",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "contact_0010",
+    "source_type": "contacts",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "account_0002",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "account_0004",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "company_001",
+    "target_type": "company"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0002",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0004",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0005",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0006",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0007",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0008",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0009",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "contact_0010",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "thread_0001",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "thread_0002",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "thread_0003",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "thread_0004",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "thread_0005",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "thread_0006",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "thread_0007",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "thread_0008",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "employee_0001",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "employee_0005",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "employee_0006",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "invoice_0001",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "invoice_0002",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "invoice_0003",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "invoice_0004",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "invoice_0005",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "invoice_0006",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0001",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0002",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0003",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0004",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0005",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0006",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "ticket_0001",
+    "target_type": "tickets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "ticket_0002",
+    "target_type": "tickets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "ticket_0003",
+    "target_type": "tickets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0001",
+    "source_type": "documents",
+    "target_id": "ticket_0004",
+    "target_type": "tickets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "company_001",
+    "target_type": "company"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "contact_0007",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "thread_0001",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "thread_0006",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "thread_0007",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "invoice_0004",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0001",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0005",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "ticket_0002",
+    "target_type": "tickets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "ticket_0003",
+    "target_type": "tickets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0002",
+    "source_type": "documents",
+    "target_id": "ticket_0004",
+    "target_type": "tickets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "account_0002",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "contact_0002",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "contact_0009",
+    "target_type": "contacts"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "thread_0003",
+    "target_type": "emails"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "employee_0001",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "employee_0005",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "employee_0006",
+    "target_type": "employees"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "invoice_0002",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "invoice_0003",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "invoice_0004",
+    "target_type": "invoices"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "spreadsheet_0002",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "references",
+    "source_id": "document_0003",
+    "source_type": "documents",
+    "target_id": "ticket_0002",
+    "target_type": "tickets"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0001_01",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0001_01",
+    "source_type": "emails",
+    "target_id": "thread_0001",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0001_01",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0001_02",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0001_02",
+    "source_type": "emails",
+    "target_id": "email_0001_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0001_02",
+    "source_type": "emails",
+    "target_id": "thread_0001",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0001_02",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "forwarded_from",
+    "source_id": "email_0001_03",
+    "source_type": "emails",
+    "target_id": "email_0001_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0001_03",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0001_03",
+    "source_type": "emails",
+    "target_id": "email_0001_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0001_03",
+    "source_type": "emails",
+    "target_id": "thread_0001",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0001_03",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0002_01",
+    "source_type": "emails",
+    "target_id": "contact_0002",
+    "target_type": "contacts"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0002_01",
+    "source_type": "emails",
+    "target_id": "thread_0002",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0002_01",
+    "source_type": "emails",
+    "target_id": "employee_0006",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0002_02",
+    "source_type": "emails",
+    "target_id": "employee_0006",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0002_02",
+    "source_type": "emails",
+    "target_id": "email_0002_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0002_02",
+    "source_type": "emails",
+    "target_id": "thread_0002",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0002_02",
+    "source_type": "emails",
+    "target_id": "contact_0002",
+    "target_type": "contacts"
+  },
+  {
+    "field": "forwarded_from",
+    "source_id": "email_0002_03",
+    "source_type": "emails",
+    "target_id": "email_0002_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0002_03",
+    "source_type": "emails",
+    "target_id": "contact_0002",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0002_03",
+    "source_type": "emails",
+    "target_id": "email_0002_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0002_03",
+    "source_type": "emails",
+    "target_id": "thread_0002",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0002_03",
+    "source_type": "emails",
+    "target_id": "employee_0006",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0002_04",
+    "source_type": "emails",
+    "target_id": "employee_0006",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0002_04",
+    "source_type": "emails",
+    "target_id": "email_0002_03",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0002_04",
+    "source_type": "emails",
+    "target_id": "thread_0002",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0002_04",
+    "source_type": "emails",
+    "target_id": "contact_0002",
+    "target_type": "contacts"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0003_01",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0003_01",
+    "source_type": "emails",
+    "target_id": "thread_0003",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0003_01",
+    "source_type": "emails",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0003_02",
+    "source_type": "emails",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0003_02",
+    "source_type": "emails",
+    "target_id": "email_0003_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0003_02",
+    "source_type": "emails",
+    "target_id": "thread_0003",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0003_02",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "forwarded_from",
+    "source_id": "email_0003_03",
+    "source_type": "emails",
+    "target_id": "email_0003_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0003_03",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0003_03",
+    "source_type": "emails",
+    "target_id": "email_0003_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0003_03",
+    "source_type": "emails",
+    "target_id": "thread_0003",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0003_03",
+    "source_type": "emails",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0004_01",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0004_01",
+    "source_type": "emails",
+    "target_id": "thread_0004",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0004_01",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0004_02",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0004_02",
+    "source_type": "emails",
+    "target_id": "email_0004_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0004_02",
+    "source_type": "emails",
+    "target_id": "thread_0004",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0004_02",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "forwarded_from",
+    "source_id": "email_0004_03",
+    "source_type": "emails",
+    "target_id": "email_0004_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0004_03",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0004_03",
+    "source_type": "emails",
+    "target_id": "email_0004_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0004_03",
+    "source_type": "emails",
+    "target_id": "thread_0004",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0004_03",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0004_04",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0004_04",
+    "source_type": "emails",
+    "target_id": "email_0004_03",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0004_04",
+    "source_type": "emails",
+    "target_id": "thread_0004",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0004_04",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0004_05",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0004_05",
+    "source_type": "emails",
+    "target_id": "email_0004_04",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0004_05",
+    "source_type": "emails",
+    "target_id": "thread_0004",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0004_05",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0005_01",
+    "source_type": "emails",
+    "target_id": "contact_0009",
+    "target_type": "contacts"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0005_01",
+    "source_type": "emails",
+    "target_id": "thread_0005",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0005_01",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0005_02",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0005_02",
+    "source_type": "emails",
+    "target_id": "email_0005_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0005_02",
+    "source_type": "emails",
+    "target_id": "thread_0005",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0005_02",
+    "source_type": "emails",
+    "target_id": "contact_0009",
+    "target_type": "contacts"
+  },
+  {
+    "field": "forwarded_from",
+    "source_id": "email_0005_03",
+    "source_type": "emails",
+    "target_id": "email_0005_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0005_03",
+    "source_type": "emails",
+    "target_id": "contact_0009",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0005_03",
+    "source_type": "emails",
+    "target_id": "email_0005_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0005_03",
+    "source_type": "emails",
+    "target_id": "thread_0005",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0005_03",
+    "source_type": "emails",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0006_01",
+    "source_type": "emails",
+    "target_id": "contact_0007",
+    "target_type": "contacts"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0006_01",
+    "source_type": "emails",
+    "target_id": "thread_0006",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0006_01",
+    "source_type": "emails",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0006_02",
+    "source_type": "emails",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0006_02",
+    "source_type": "emails",
+    "target_id": "email_0006_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0006_02",
+    "source_type": "emails",
+    "target_id": "thread_0006",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0006_02",
+    "source_type": "emails",
+    "target_id": "contact_0007",
+    "target_type": "contacts"
+  },
+  {
+    "field": "forwarded_from",
+    "source_id": "email_0006_03",
+    "source_type": "emails",
+    "target_id": "email_0006_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0006_03",
+    "source_type": "emails",
+    "target_id": "contact_0007",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0006_03",
+    "source_type": "emails",
+    "target_id": "email_0006_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0006_03",
+    "source_type": "emails",
+    "target_id": "thread_0006",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0006_03",
+    "source_type": "emails",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0007_01",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0007_01",
+    "source_type": "emails",
+    "target_id": "thread_0007",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0007_01",
+    "source_type": "emails",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0007_02",
+    "source_type": "emails",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0007_02",
+    "source_type": "emails",
+    "target_id": "email_0007_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0007_02",
+    "source_type": "emails",
+    "target_id": "thread_0007",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0007_02",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "forwarded_from",
+    "source_id": "email_0007_03",
+    "source_type": "emails",
+    "target_id": "email_0007_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0007_03",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0007_03",
+    "source_type": "emails",
+    "target_id": "email_0007_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0007_03",
+    "source_type": "emails",
+    "target_id": "thread_0007",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0007_03",
+    "source_type": "emails",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0007_04",
+    "source_type": "emails",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0007_04",
+    "source_type": "emails",
+    "target_id": "email_0007_03",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0007_04",
+    "source_type": "emails",
+    "target_id": "thread_0007",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0007_04",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0007_05",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0007_05",
+    "source_type": "emails",
+    "target_id": "email_0002_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0007_05",
+    "source_type": "emails",
+    "target_id": "thread_0007",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0007_05",
+    "source_type": "emails",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0008_01",
+    "source_type": "emails",
+    "target_id": "contact_0010",
+    "target_type": "contacts"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0008_01",
+    "source_type": "emails",
+    "target_id": "thread_0008",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0008_01",
+    "source_type": "emails",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0008_02",
+    "source_type": "emails",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0008_02",
+    "source_type": "emails",
+    "target_id": "email_0008_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0008_02",
+    "source_type": "emails",
+    "target_id": "thread_0008",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0008_02",
+    "source_type": "emails",
+    "target_id": "contact_0010",
+    "target_type": "contacts"
+  },
+  {
+    "field": "forwarded_from",
+    "source_id": "email_0008_03",
+    "source_type": "emails",
+    "target_id": "email_0008_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0008_03",
+    "source_type": "emails",
+    "target_id": "contact_0010",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0008_03",
+    "source_type": "emails",
+    "target_id": "email_0008_02",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0008_03",
+    "source_type": "emails",
+    "target_id": "thread_0008",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0008_03",
+    "source_type": "emails",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "from_employee_id",
+    "source_id": "email_0008_04",
+    "source_type": "emails",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0008_04",
+    "source_type": "emails",
+    "target_id": "email_0008_03",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0008_04",
+    "source_type": "emails",
+    "target_id": "thread_0008",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_contact_id",
+    "source_id": "email_0008_04",
+    "source_type": "emails",
+    "target_id": "contact_0010",
+    "target_type": "contacts"
+  },
+  {
+    "field": "from_contact_id",
+    "source_id": "email_0008_05",
+    "source_type": "emails",
+    "target_id": "contact_0010",
+    "target_type": "contacts"
+  },
+  {
+    "field": "in_reply_to",
+    "source_id": "email_0008_05",
+    "source_type": "emails",
+    "target_id": "email_0008_04",
+    "target_type": "emails"
+  },
+  {
+    "field": "thread_id",
+    "source_id": "email_0008_05",
+    "source_type": "emails",
+    "target_id": "thread_0008",
+    "target_type": "emails"
+  },
+  {
+    "field": "to_employee_id",
+    "source_id": "email_0008_05",
+    "source_type": "emails",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "account_id",
+    "source_id": "thread_0001",
+    "source_type": "emails",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "thread_0001",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "thread_0002",
+    "source_type": "emails",
+    "target_id": "account_0002",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "thread_0002",
+    "source_type": "emails",
+    "target_id": "contact_0002",
+    "target_type": "contacts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "thread_0003",
+    "source_type": "emails",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "thread_0003",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "thread_0004",
+    "source_type": "emails",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "thread_0004",
+    "source_type": "emails",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "thread_0005",
+    "source_type": "emails",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "thread_0005",
+    "source_type": "emails",
+    "target_id": "contact_0009",
+    "target_type": "contacts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "thread_0006",
+    "source_type": "emails",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "thread_0006",
+    "source_type": "emails",
+    "target_id": "contact_0007",
+    "target_type": "contacts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "thread_0007",
+    "source_type": "emails",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "thread_0007",
+    "source_type": "emails",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "account_id",
+    "source_id": "thread_0008",
+    "source_type": "emails",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "thread_0008",
+    "source_type": "emails",
+    "target_id": "contact_0010",
+    "target_type": "contacts"
+  },
+  {
+    "field": "company_id",
+    "source_id": "employee_0001",
+    "source_type": "employees",
+    "target_id": "company_001",
+    "target_type": "company"
+  },
+  {
+    "field": "company_id",
+    "source_id": "employee_0002",
+    "source_type": "employees",
+    "target_id": "company_001",
+    "target_type": "company"
+  },
+  {
+    "field": "manager_id",
+    "source_id": "employee_0002",
+    "source_type": "employees",
+    "target_id": "employee_0001",
+    "target_type": "employees"
+  },
+  {
+    "field": "company_id",
+    "source_id": "employee_0003",
+    "source_type": "employees",
+    "target_id": "company_001",
+    "target_type": "company"
+  },
+  {
+    "field": "manager_id",
+    "source_id": "employee_0003",
+    "source_type": "employees",
+    "target_id": "employee_0001",
+    "target_type": "employees"
+  },
+  {
+    "field": "company_id",
+    "source_id": "employee_0004",
+    "source_type": "employees",
+    "target_id": "company_001",
+    "target_type": "company"
+  },
+  {
+    "field": "manager_id",
+    "source_id": "employee_0004",
+    "source_type": "employees",
+    "target_id": "employee_0001",
+    "target_type": "employees"
+  },
+  {
+    "field": "company_id",
+    "source_id": "employee_0005",
+    "source_type": "employees",
+    "target_id": "company_001",
+    "target_type": "company"
+  },
+  {
+    "field": "manager_id",
+    "source_id": "employee_0005",
+    "source_type": "employees",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "company_id",
+    "source_id": "employee_0006",
+    "source_type": "employees",
+    "target_id": "company_001",
+    "target_type": "company"
+  },
+  {
+    "field": "manager_id",
+    "source_id": "employee_0006",
+    "source_type": "employees",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "account_id",
+    "source_id": "invoice_0001",
+    "source_type": "invoices",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "invoice_0001",
+    "source_type": "invoices",
+    "target_id": "contact_0010",
+    "target_type": "contacts"
+  },
+  {
+    "field": "spreadsheet_id",
+    "source_id": "invoice_0001",
+    "source_type": "invoices",
+    "target_id": "spreadsheet_0001",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "account_id",
+    "source_id": "invoice_0002",
+    "source_type": "invoices",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "invoice_0002",
+    "source_type": "invoices",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "spreadsheet_id",
+    "source_id": "invoice_0002",
+    "source_type": "invoices",
+    "target_id": "spreadsheet_0002",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "account_id",
+    "source_id": "invoice_0003",
+    "source_type": "invoices",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "invoice_0003",
+    "source_type": "invoices",
+    "target_id": "contact_0009",
+    "target_type": "contacts"
+  },
+  {
+    "field": "spreadsheet_id",
+    "source_id": "invoice_0003",
+    "source_type": "invoices",
+    "target_id": "spreadsheet_0003",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "account_id",
+    "source_id": "invoice_0004",
+    "source_type": "invoices",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "invoice_0004",
+    "source_type": "invoices",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "spreadsheet_id",
+    "source_id": "invoice_0004",
+    "source_type": "invoices",
+    "target_id": "spreadsheet_0004",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "account_id",
+    "source_id": "invoice_0005",
+    "source_type": "invoices",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "invoice_0005",
+    "source_type": "invoices",
+    "target_id": "contact_0005",
+    "target_type": "contacts"
+  },
+  {
+    "field": "spreadsheet_id",
+    "source_id": "invoice_0005",
+    "source_type": "invoices",
+    "target_id": "spreadsheet_0005",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "account_id",
+    "source_id": "invoice_0006",
+    "source_type": "invoices",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "invoice_0006",
+    "source_type": "invoices",
+    "target_id": "contact_0009",
+    "target_type": "contacts"
+  },
+  {
+    "field": "spreadsheet_id",
+    "source_id": "invoice_0006",
+    "source_type": "invoices",
+    "target_id": "spreadsheet_0006",
+    "target_type": "spreadsheets"
+  },
+  {
+    "field": "account_id",
+    "source_id": "spreadsheet_0001",
+    "source_type": "spreadsheets",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "invoice_id",
+    "source_id": "spreadsheet_0001",
+    "source_type": "spreadsheets",
+    "target_id": "invoice_0001",
+    "target_type": "invoices"
+  },
+  {
+    "field": "account_id",
+    "source_id": "spreadsheet_0002",
+    "source_type": "spreadsheets",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "invoice_id",
+    "source_id": "spreadsheet_0002",
+    "source_type": "spreadsheets",
+    "target_id": "invoice_0002",
+    "target_type": "invoices"
+  },
+  {
+    "field": "account_id",
+    "source_id": "spreadsheet_0003",
+    "source_type": "spreadsheets",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "invoice_id",
+    "source_id": "spreadsheet_0003",
+    "source_type": "spreadsheets",
+    "target_id": "invoice_0003",
+    "target_type": "invoices"
+  },
+  {
+    "field": "account_id",
+    "source_id": "spreadsheet_0004",
+    "source_type": "spreadsheets",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "invoice_id",
+    "source_id": "spreadsheet_0004",
+    "source_type": "spreadsheets",
+    "target_id": "invoice_0004",
+    "target_type": "invoices"
+  },
+  {
+    "field": "account_id",
+    "source_id": "spreadsheet_0005",
+    "source_type": "spreadsheets",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "invoice_id",
+    "source_id": "spreadsheet_0005",
+    "source_type": "spreadsheets",
+    "target_id": "invoice_0005",
+    "target_type": "invoices"
+  },
+  {
+    "field": "account_id",
+    "source_id": "spreadsheet_0006",
+    "source_type": "spreadsheets",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "invoice_id",
+    "source_id": "spreadsheet_0006",
+    "source_type": "spreadsheets",
+    "target_id": "invoice_0006",
+    "target_type": "invoices"
+  },
+  {
+    "field": "account_id",
+    "source_id": "ticket_0001",
+    "source_type": "tickets",
+    "target_id": "account_0003",
+    "target_type": "accounts"
+  },
+  {
+    "field": "assigned_employee_id",
+    "source_id": "ticket_0001",
+    "source_type": "tickets",
+    "target_id": "employee_0002",
+    "target_type": "employees"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "ticket_0001",
+    "source_type": "tickets",
+    "target_id": "contact_0003",
+    "target_type": "contacts"
+  },
+  {
+    "field": "email_id",
+    "source_id": "ticket_0001",
+    "source_type": "tickets",
+    "target_id": "email_0003_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "email_thread_id",
+    "source_id": "ticket_0001",
+    "source_type": "tickets",
+    "target_id": "thread_0003",
+    "target_type": "emails"
+  },
+  {
+    "field": "account_id",
+    "source_id": "ticket_0002",
+    "source_type": "tickets",
+    "target_id": "account_0005",
+    "target_type": "accounts"
+  },
+  {
+    "field": "assigned_employee_id",
+    "source_id": "ticket_0002",
+    "source_type": "tickets",
+    "target_id": "employee_0004",
+    "target_type": "employees"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "ticket_0002",
+    "source_type": "tickets",
+    "target_id": "contact_0007",
+    "target_type": "contacts"
+  },
+  {
+    "field": "email_id",
+    "source_id": "ticket_0002",
+    "source_type": "tickets",
+    "target_id": "email_0006_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "email_thread_id",
+    "source_id": "ticket_0002",
+    "source_type": "tickets",
+    "target_id": "thread_0006",
+    "target_type": "emails"
+  },
+  {
+    "field": "account_id",
+    "source_id": "ticket_0003",
+    "source_type": "tickets",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "assigned_employee_id",
+    "source_id": "ticket_0003",
+    "source_type": "tickets",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "ticket_0003",
+    "source_type": "tickets",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "email_id",
+    "source_id": "ticket_0003",
+    "source_type": "tickets",
+    "target_id": "email_0001_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "email_thread_id",
+    "source_id": "ticket_0003",
+    "source_type": "tickets",
+    "target_id": "thread_0001",
+    "target_type": "emails"
+  },
+  {
+    "field": "account_id",
+    "source_id": "ticket_0004",
+    "source_type": "tickets",
+    "target_id": "account_0001",
+    "target_type": "accounts"
+  },
+  {
+    "field": "assigned_employee_id",
+    "source_id": "ticket_0004",
+    "source_type": "tickets",
+    "target_id": "employee_0003",
+    "target_type": "employees"
+  },
+  {
+    "field": "contact_id",
+    "source_id": "ticket_0004",
+    "source_type": "tickets",
+    "target_id": "contact_0001",
+    "target_type": "contacts"
+  },
+  {
+    "field": "email_id",
+    "source_id": "ticket_0004",
+    "source_type": "tickets",
+    "target_id": "email_0004_01",
+    "target_type": "emails"
+  },
+  {
+    "field": "email_thread_id",
+    "source_id": "ticket_0004",
+    "source_type": "tickets",
+    "target_id": "thread_0004",
+    "target_type": "emails"
+  }
+]

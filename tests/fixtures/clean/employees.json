@@ -1,0 +1,68 @@
+[
+  {
+    "company_id": "company_001",
+    "department": "Operations",
+    "email": "employee0001@syntheticworkplace.invalid",
+    "id": "employee_0001",
+    "is_synthetic": true,
+    "manager_id": null,
+    "name": "Quinn Linden",
+    "role": "People Associate",
+    "start_date": "2018-09-16"
+  },
+  {
+    "company_id": "company_001",
+    "department": "Research",
+    "email": "employee0002@syntheticworkplace.invalid",
+    "id": "employee_0002",
+    "is_synthetic": true,
+    "manager_id": "employee_0001",
+    "name": "Gray Calder",
+    "role": "Sales Coordinator",
+    "start_date": "2023-04-14"
+  },
+  {
+    "company_id": "company_001",
+    "department": "Sales",
+    "email": "employee0003@syntheticworkplace.invalid",
+    "id": "employee_0003",
+    "is_synthetic": true,
+    "manager_id": "employee_0001",
+    "name": "Quinn Voss",
+    "role": "People Lead",
+    "start_date": "2023-03-19"
+  },
+  {
+    "company_id": "company_001",
+    "department": "People",
+    "email": "employee0004@syntheticworkplace.invalid",
+    "id": "employee_0004",
+    "is_synthetic": true,
+    "manager_id": "employee_0001",
+    "name": "Zuri Grove",
+    "role": "Operations Associate",
+    "start_date": "2018-07-25"
+  },
+  {
+    "company_id": "company_001",
+    "department": "Finance",
+    "email": "employee0005@syntheticworkplace.invalid",
+    "id": "employee_0005",
+    "is_synthetic": true,
+    "manager_id": "employee_0004",
+    "name": "Uma Tolland",
+    "role": "Finance Lead",
+    "start_date": "2019-11-09"
+  },
+  {
+    "company_id": "company_001",
+    "department": "Finance",
+    "email": "employee0006@syntheticworkplace.invalid",
+    "id": "employee_0006",
+    "is_synthetic": true,
+    "manager_id": "employee_0002",
+    "name": "Quinn Grove",
+    "role": "People Analyst",
+    "start_date": "2019-04-28"
+  }
+]

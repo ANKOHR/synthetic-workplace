@@ -1,0 +1,58 @@
+[
+  {
+    "account_id": "account_0003",
+    "assigned_employee_id": "employee_0002",
+    "contact_id": "contact_0003",
+    "created_at": "2000-01-01T00:00:00Z",
+    "description": "Ticket opened from the first customer email in the linked thread.",
+    "email_id": "email_0003_01",
+    "email_thread_id": "thread_0003",
+    "id": "ticket_0001",
+    "is_synthetic": true,
+    "priority": "normal",
+    "status": "open",
+    "subject": "Quartz Beacon ticket marker: delivery question"
+  },
+  {
+    "account_id": "account_0005",
+    "assigned_employee_id": "employee_0004",
+    "contact_id": "contact_0007",
+    "created_at": "2024-07-12T10:00:00Z",
+    "description": "Ticket opened from the first customer email in the linked thread.",
+    "email_id": "email_0006_01",
+    "email_thread_id": "thread_0006",
+    "id": "ticket_0002",
+    "is_synthetic": true,
+    "priority": "high",
+    "status": "open",
+    "subject": "Delivery question: Equipment survey: follow up"
+  },
+  {
+    "account_id": "account_0001",
+    "assigned_employee_id": "employee_0003",
+    "contact_id": "contact_0001",
+    "created_at": "2024-12-03T10:00:00Z",
+    "description": "Ticket opened from the first customer email in the linked thread.",
+    "email_id": "email_0001_01",
+    "email_thread_id": "thread_0001",
+    "id": "ticket_0003",
+    "is_synthetic": true,
+    "priority": "low",
+    "status": "resolved",
+    "subject": "Schedule clarification: Juniper renewal: order details"
+  },
+  {
+    "account_id": "account_0001",
+    "assigned_employee_id": "employee_0003",
+    "contact_id": "contact_0001",
+    "created_at": "2025-01-29T10:00:00Z",
+    "description": "Ticket opened from the first customer email in the linked thread.",
+    "email_id": "email_0004_01",
+    "email_thread_id": "thread_0004",
+    "id": "ticket_0004",
+    "is_synthetic": true,
+    "priority": "normal",
+    "status": "open",
+    "subject": "Delivery question: Knowledge base review: availability"
+  }
+]

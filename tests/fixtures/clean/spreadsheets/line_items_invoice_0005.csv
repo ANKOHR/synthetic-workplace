@@ -1,0 +1,5 @@
+spreadsheet_id,title,invoice_id,account_id,account_name,line_id,description,quantity,unit_price_cents,amount_cents
+spreadsheet_0005,SW-2024-00005 line items,invoice_0005,account_0005,Juniper Pioneer Studio,line_001,measuring tool,1,5038,5038
+spreadsheet_0005,SW-2024-00005 line items,invoice_0005,account_0005,Juniper Pioneer Studio,line_002,desk lamp,1,12068,12068
+spreadsheet_0005,SW-2024-00005 line items,invoice_0005,account_0005,Juniper Pioneer Studio,line_003,packing sleeve,2,902,1804
+spreadsheet_0005,SW-2024-00005 line items,invoice_0005,account_0005,Juniper Pioneer Studio,line_004,desk lamp,7,13408,93856

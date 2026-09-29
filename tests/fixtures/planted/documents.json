@@ -1,0 +1,332 @@
+[
+  {
+    "body": "Internal fictional planning note for Umber Waypoint Services. Confirm the linked records before acting on inventory reset.",
+    "category": "process guide",
+    "created_at": "2024-10-11T12:00:00Z",
+    "id": "document_0001",
+    "is_synthetic": true,
+    "references": [
+      {
+        "id": "employee_0001",
+        "type": "employees"
+      },
+      {
+        "id": "employee_0002",
+        "type": "employees"
+      },
+      {
+        "id": "employee_0003",
+        "type": "employees"
+      },
+      {
+        "id": "employee_0004",
+        "type": "employees"
+      },
+      {
+        "id": "employee_0005",
+        "type": "employees"
+      },
+      {
+        "id": "employee_0006",
+        "type": "employees"
+      },
+      {
+        "id": "thread_0001",
+        "type": "emails"
+      },
+      {
+        "id": "thread_0002",
+        "type": "emails"
+      },
+      {
+        "id": "thread_0003",
+        "type": "emails"
+      },
+      {
+        "id": "thread_0004",
+        "type": "emails"
+      },
+      {
+        "id": "thread_0005",
+        "type": "emails"
+      },
+      {
+        "id": "thread_0006",
+        "type": "emails"
+      },
+      {
+        "id": "thread_0007",
+        "type": "emails"
+      },
+      {
+        "id": "thread_0008",
+        "type": "emails"
+      },
+      {
+        "id": "account_0001",
+        "type": "accounts"
+      },
+      {
+        "id": "account_0002",
+        "type": "accounts"
+      },
+      {
+        "id": "account_0003",
+        "type": "accounts"
+      },
+      {
+        "id": "account_0004",
+        "type": "accounts"
+      },
+      {
+        "id": "account_0005",
+        "type": "accounts"
+      },
+      {
+        "id": "contact_0001",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0002",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0003",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0004",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0005",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0006",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0007",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0008",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0009",
+        "type": "contacts"
+      },
+      {
+        "id": "contact_0010",
+        "type": "contacts"
+      },
+      {
+        "id": "invoice_0001",
+        "type": "invoices"
+      },
+      {
+        "id": "invoice_0002",
+        "type": "invoices"
+      },
+      {
+        "id": "invoice_0003",
+        "type": "invoices"
+      },
+      {
+        "id": "invoice_0004",
+        "type": "invoices"
+      },
+      {
+        "id": "invoice_0005",
+        "type": "invoices"
+      },
+      {
+        "id": "invoice_0006",
+        "type": "invoices"
+      },
+      {
+        "id": "spreadsheet_0001",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "spreadsheet_0002",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "spreadsheet_0003",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "spreadsheet_0004",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "spreadsheet_0005",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "spreadsheet_0006",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "ticket_0001",
+        "type": "tickets"
+      },
+      {
+        "id": "ticket_0002",
+        "type": "tickets"
+      },
+      {
+        "id": "ticket_0003",
+        "type": "tickets"
+      },
+      {
+        "id": "ticket_0004",
+        "type": "tickets"
+      },
+      {
+        "id": "company_001",
+        "type": "company"
+      }
+    ],
+    "title": "Quartz Beacon memo marker"
+  },
+  {
+    "body": "Internal fictional planning note for Umber Waypoint Services. Confirm the linked records before acting on autumn replenishment.",
+    "category": "account brief",
+    "created_at": "2024-04-03T12:00:00Z",
+    "id": "document_0002",
+    "is_synthetic": true,
+    "references": [
+      {
+        "id": "spreadsheet_0005",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "contact_0007",
+        "type": "contacts"
+      },
+      {
+        "id": "account_0001",
+        "type": "accounts"
+      },
+      {
+        "id": "company_001",
+        "type": "company"
+      },
+      {
+        "id": "spreadsheet_0001",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "ticket_0003",
+        "type": "tickets"
+      },
+      {
+        "id": "ticket_0004",
+        "type": "tickets"
+      },
+      {
+        "id": "thread_0007",
+        "type": "emails"
+      },
+      {
+        "id": "thread_0006",
+        "type": "emails"
+      },
+      {
+        "id": "contact_0003",
+        "type": "contacts"
+      },
+      {
+        "id": "invoice_0004",
+        "type": "invoices"
+      },
+      {
+        "id": "account_0005",
+        "type": "accounts"
+      },
+      {
+        "id": "thread_0001",
+        "type": "emails"
+      },
+      {
+        "id": "ticket_0002",
+        "type": "tickets"
+      }
+    ],
+    "title": "Harbor transition internal operating note"
+  },
+  {
+    "body": "Internal fictional planning note for Umber Waypoint Services. Confirm the linked records before acting on greenhouse setup.",
+    "category": "meeting notes",
+    "created_at": "2024-11-04T12:00:00Z",
+    "id": "document_0003",
+    "is_synthetic": true,
+    "references": [
+      {
+        "id": "contact_0002",
+        "type": "contacts"
+      },
+      {
+        "id": "account_0003",
+        "type": "accounts"
+      },
+      {
+        "id": "contact_0003",
+        "type": "contacts"
+      },
+      {
+        "id": "invoice_0004",
+        "type": "invoices"
+      },
+      {
+        "id": "spreadsheet_0002",
+        "type": "spreadsheets"
+      },
+      {
+        "id": "employee_0005",
+        "type": "employees"
+      },
+      {
+        "id": "contact_0009",
+        "type": "contacts"
+      },
+      {
+        "id": "employee_0003",
+        "type": "employees"
+      },
+      {
+        "id": "thread_0003",
+        "type": "emails"
+      },
+      {
+        "id": "invoice_0002",
+        "type": "invoices"
+      },
+      {
+        "id": "invoice_0003",
+        "type": "invoices"
+      },
+      {
+        "id": "employee_0001",
+        "type": "employees"
+      },
+      {
+        "id": "account_0002",
+        "type": "accounts"
+      },
+      {
+        "id": "ticket_0002",
+        "type": "tickets"
+      },
+      {
+        "id": "employee_0006",
+        "type": "employees"
+      }
+    ],
+    "title": "Harbor transition internal operating note"
+  }
+]

@@ -1,0 +1,4 @@
+spreadsheet_id,title,invoice_id,account_id,account_name,line_id,description,quantity,unit_price_cents,amount_cents
+spreadsheet_0004,SW-2024-00004 line items,invoice_0004,account_0003,Ivory Northstar Trading,line_001,storage tray,1,13064,13064
+spreadsheet_0004,SW-2024-00004 line items,invoice_0004,account_0003,Ivory Northstar Trading,line_002,desk lamp,7,10965,76755
+spreadsheet_0004,SW-2024-00004 line items,invoice_0004,account_0003,Ivory Northstar Trading,line_003,safety vest,6,4654,27924

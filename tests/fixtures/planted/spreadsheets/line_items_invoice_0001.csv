@@ -1,0 +1,5 @@
+spreadsheet_id,title,invoice_id,account_id,account_name,line_id,description,quantity,unit_price_cents,amount_cents
+spreadsheet_0001,SW-2024-00001 line items,invoice_0001,account_0005,Juniper Pioneer Studio,line_001,Quartz Beacon workbook marker,6,23248,139488
+spreadsheet_0001,SW-2024-00001 line items,invoice_0001,account_0005,Juniper Pioneer Studio,line_002,work mat,6,6553,39318
+spreadsheet_0001,SW-2024-00001 line items,invoice_0001,account_0005,Juniper Pioneer Studio,line_003,measuring tool,5,1260,6300
+spreadsheet_0001,SW-2024-00001 line items,invoice_0001,account_0005,Juniper Pioneer Studio,line_004,safety vest,3,11363,34089
