@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "syntheticworkplace"
+version = "1.0.0"
+description = "A deterministic generator for fictional, cross-consistent workplace data."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.scripts]
+synthwork = "synthwork.cli:main"
+
+[tool.setuptools]
+packages = ["synthwork"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
